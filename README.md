@@ -25,9 +25,7 @@ To find more information on the virtual internship, you may go to: https://www.t
 * [Targeted Customer](https://public.tableau.com/views/KPMGVirtualInternship-TargetedCustomer/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ## Featured Notebooks
-* [KPMG VI Data Quality Assessment]()
-* [KPMG VI Data Insights_1]()
-* [KPMG VI Data Insights_2]()
+* [KPMG VI Data Analysis](https://github.com/irhasfm/KPMG-VIrtual-Internship/blob/main/2.%20Analysis/KPMG%20Data%20Analysis.ipynb)
 
 ## Contact
 * You may contact me at irhasfm@gmail.com
